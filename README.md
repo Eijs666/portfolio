@@ -1,4 +1,3 @@
 # portfolio
-I used three.js and my brain
-
+I used three.js, HTML & CSS
 https://portfolio-ejaz.netlify.app/
